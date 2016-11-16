@@ -1,2 +1,2 @@
 # hello-world
-just tutorial repository
+just tutorial repository, on the web-site
